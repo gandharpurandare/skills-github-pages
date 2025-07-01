@@ -1,5 +1,0 @@
----
-title: 'Gandhar Shrikant Purandare'
-
-
----
